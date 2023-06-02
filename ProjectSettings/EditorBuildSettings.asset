@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SimpleHouse.unity
+    guid: f4b4cc90580a946eaabed882ba747b3c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ae5d6017af60ef24eaf461a55d2d8b36, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b39734503db8c584599b216cd53b4787, type: 2}
